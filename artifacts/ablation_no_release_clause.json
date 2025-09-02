@@ -1,0 +1,28 @@
+{
+  "log": {
+    "rmse": 0.22879591756762613,
+    "mae": 0.11131670778609669,
+    "r2": 0.9652848166977728
+  },
+  "eur_smearing": {
+    "rmse": 2644986.055487144,
+    "mae": 453652.42591998156,
+    "r2": 0.874544930664027
+  },
+  "smear": 1.001721166753204,
+  "features_num": [
+    "overall_rating",
+    "potential",
+    "age",
+    "height_cm",
+    "weight_kg",
+    "wage_eur",
+    "club_rating"
+  ],
+  "features_cat": [
+    "primary_position",
+    "position_group",
+    "preferred_foot",
+    "club_league_name"
+  ]
+}
